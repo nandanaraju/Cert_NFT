@@ -1,0 +1,36 @@
+[{
+    "description": "Certificate of Achievement.", 
+    "external_url": "https://kba.ai/", 
+    "image": "https://gold-large-boar-625.mypinata.cloud/ipfs/QmXmqBtEMyR78SPLFTJ1CNwH5w21dXwG8QGemJNznhpohC", 
+    "name": "Blockchain",
+    "attributes": [  {
+      "trait_type": "Color", 
+      "value": "Blue"
+    }, 
+    {
+      "trait_type": "Type", 
+      "value": "Image"
+    }, 
+    {
+      "trait_type": "Ownership", 
+      "value": "Verified"
+    }]
+  },
+  {
+    "description": "Certificate of Completion.", 
+    "external_url": "https://kba.ai/", 
+    "image": "https://gold-large-boar-625.mypinata.cloud/ipfs/QmPfUt7sxzBJRvgyLB9VnHFsFfcYH3ibgRnaRiTFLRCxDN", 
+    "name": "Blockchain",
+    "attributes": [  {
+      "trait_type": "Color", 
+      "value": "Blue"
+    }, 
+    {
+      "trait_type": "Type", 
+      "value": "Image"
+    }, 
+    {
+      "trait_type": "Ownership", 
+      "value": "Verified"
+    }]
+  }]
